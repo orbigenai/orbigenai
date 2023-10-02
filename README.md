@@ -18,3 +18,7 @@ Stay connected with OrbiGenAI Innovations Lab:
 For inquiries and collaborations, feel free to reach out to us at [careers@orbigenai.com](mailto:careers@orbigenai.com).
 
 Let's innovate, let's create, and let's code for a better future! 🌟
+
+## Repo Activity
+
+![Alt](https://repobeats.axiom.co/api/embed/003dd65dbcf44315d2bd4702a67119654843be99.svg "Repobeats analytics image")
