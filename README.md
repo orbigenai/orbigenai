@@ -1,15 +1,5 @@
 # Welcome to OrbiGenAI Innovations Lab
 
-<!-- Start of We're Hiring! Section
-<section style="background-color: #f0f0f0; padding: 20px; text-align: center;">
-  <h2>We're Hiring!</h2>
-  <p>Join our dynamic team and be a part of the AI revolution. Explore our open positions and make a difference with us.</p>
-  <a href="https://orbigenai.com/careers" style="background-color: #007acc; color: #fff; padding: 10px 20px; border
-</section>
- End of We're Hiring! Section -->
-
-![OrbiGenAI Logo]()
-
 🚀 **About Us**
 We are OrbiGenAI Innovations Lab, a dynamic team of AI enthusiasts driven by innovation and fueled by technology. Our mission is to revolutionize industries through cutting-edge AI solutions and open collaboration.
 
@@ -22,13 +12,9 @@ We believe in the power of collaboration. Join us in shaping the future of AI an
 🌐 **Connect with Us**
 Stay connected with OrbiGenAI Innovations Lab:
 - [LinkedIn](https://www.linkedin.com/company/orbigenai)
-- [Twitter](https://twitter.com/OrbiGenAI)
-- [Facebook](https://www.facebook.com/orbigenai)
-
-📜 **License**
-This repository and its contents are open-source under the [insert-license-name] license. See the [LICENSE](link-to-license-file) file for details.
+- [Twitter](https://twitter.com/orbigenai)
 
 📬 **Contact**
-For inquiries and collaborations, feel free to reach out to us at [contact@orbigenai.com](mailto:contact@orbigenai.com).
+For inquiries and collaborations, feel free to reach out to us at [careers@orbigenai.com](mailto:careers@orbigenai.com).
 
 Let's innovate, let's create, and let's code for a better future! 🌟
